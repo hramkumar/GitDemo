@@ -1,2 +1,2 @@
 this is file2
-this is line 2 in file 2
+this is line2 in file2
